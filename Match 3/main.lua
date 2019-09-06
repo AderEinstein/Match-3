@@ -2,8 +2,8 @@
     GD50
     Match-3 Remake
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     Match-3 has taken several forms over the years, with its roots in games
     like Tetris in the 80s. Bejeweled, in 2001, is probably the most recognized
@@ -15,10 +15,12 @@
     those tiles add to the player's score and are removed from play, with new
     tiles coming from the ceiling to replace them.
 
-    As per previous projects, we'll be adopting a retro, NES-quality aesthetic.
+    This project adopts a retro, NES-quality aesthetic.
 
-    Credit for graphics (amazing work!):
-    https://opengameart.org/users/buch
+    Graphics:
+    -Franklin Ader
+    -https://opengameart.org/users/buch
+
 
     Credit for music (awesome track):
     http://freemusicarchive.org/music/RoccoW/

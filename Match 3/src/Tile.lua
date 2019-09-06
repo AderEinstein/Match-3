@@ -4,8 +4,8 @@
 
     -- Tile Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     The individual tiles that make up our game board. Each Tile can have a
     color and a variety, with the varietes adding extra points to the matches.

@@ -4,8 +4,8 @@
 
     -- Board Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     The Board is our arrangement of Tiles with which we must try to find matching
     sets of three horizontally or vertically.

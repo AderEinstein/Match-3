@@ -2,8 +2,8 @@
     GD50
     Match-3 Remake
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     - GameOverState Class-
 

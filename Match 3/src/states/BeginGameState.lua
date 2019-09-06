@@ -4,8 +4,8 @@
 
     -- BeginGameState Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     Represents the state the game is in right before we start playing;
     should fade in, display a drop-down "Level X" message, then transition

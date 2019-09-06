@@ -4,8 +4,8 @@
 
     -- StartState Class --
 
-    Author: Colton Ogden
-    cogden@cs50.harvard.edu
+    Author: Franklin Ader
+    adereinstein1@gmail.com
 
     Represents the state the game is in when we've just started; should
     simply display "Match-3" in large text, as well as a message to press
